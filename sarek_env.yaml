@@ -1,0 +1,27 @@
+name: sarek_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - nextflow >=23.10.0
+  - openjdk =11
+  - samtools >=1.15
+  - bcftools >=1.15
+  - bedtools
+  - manta
+  - tiddit
+  - ensembl-vep
+  - snpeff
+  - fastqc
+  - multiqc
+  - bwa
+  - gatk4
+  - picard
+  - hisat2  # Optional, useful if alignment beyond BWA is needed
+  - trimmomatic  # Optional, for trimming reads
+  - tabix
+  - htslib
+  - numpy
+  - pandas
+  - matplotlib  # Required for some custom plotting downstream
