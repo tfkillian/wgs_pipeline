@@ -92,9 +92,11 @@ Key output files for SV analysis:
 
 ## 📚 References
 
-- [nf-core/sarek](https://nf-co.re/sarek)  
+- [nf-core/sarek](https://nf-co.re/sarek/3.2.3/)  
+- [nf-core/viralintegration](https://nf-co.re/viralintegration/0.1.1/)
 - [Manta](https://github.com/Illumina/manta)  
 - [TIDDIT](https://github.com/SciLifeLab/TIDDIT)  
+- [bioconda](https://bioconda.github.io/)
 
 ## 📬 Feedback or Issues?
 
